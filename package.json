@@ -1,0 +1,24 @@
+{
+  "name": "hobo-interactive-demo",
+  "version": "1.0.0",
+  "main": "index.hobo.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@codemirror/lang-html": "^6.4.6",
+    "@codemirror/lang-javascript": "^6.2.1",
+    "@rollup/plugin-node-resolve": "^15.2.1",
+    "@types/node": "^20.8.2",
+    "codemirror": "^6.0.1",
+    "debounce": "^1.2.1",
+    "hobo-js": "github:nombrekeff/hobo-js",
+    "prettier": "^3.0.3",
+    "rollup": "^3.29.4",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
